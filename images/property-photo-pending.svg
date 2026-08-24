@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img" aria-label="Property photo pending">
+  <rect width="800" height="520" fill="#e5e7eb"/>
+  <path d="M170 385V245l230-160 230 160v140H170Zm76-38h308V265L400 158 246 265v82Zm94-90h120v90H340v-90Z" fill="#9ca3af"/>
+  <text x="400" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#4b5563">Property photo pending</text>
+</svg>
